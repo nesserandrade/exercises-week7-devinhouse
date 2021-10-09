@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    height: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+
+#piada {
+    display: block;
+}
+
+#botao {
+    padding: 50px;
+    background-color: brown;
+    font-size: 20px;
+}

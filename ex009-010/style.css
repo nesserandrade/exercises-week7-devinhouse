@@ -1,24 +1,17 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-html {
-    height: 100%;
-}
-
 body {
     text-align: center;
     height: 100%;
-    display: flex;
     justify-content: center;
     align-items: center;
-    vertical-align: middle;
+}
+
+#piadas {
+    display: block;
 }
 
 #container {
     height: 100%;
+    display: block;
 }
 
 #piada {
